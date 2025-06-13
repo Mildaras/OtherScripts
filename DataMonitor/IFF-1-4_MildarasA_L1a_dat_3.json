@@ -1,0 +1,129 @@
+{
+  "books": [
+    {
+      "name": "Book 1",
+      "publishYear": 2020,
+      "price": 25.00
+    },
+    {
+      "name": "Book 2",
+      "publishYear": 2019,
+      "price": 26.50
+    },
+    {
+      "name": "Book 3",
+      "publishYear": 2022,
+      "price": 30.25
+    },
+    {
+      "name": "Book 4",
+      "publishYear": 2018,
+      "price": 27.95
+    },
+    {
+      "name": "Book 5",
+      "publishYear": 2021,
+      "price": 29.99
+    },
+    {
+      "name": "Book 6",
+      "publishYear": 2020,
+      "price": 28.75
+    },
+    {
+      "name": "Book 7",
+      "publishYear": 2019,
+      "price": 31.50
+    },
+    {
+      "name": "Book 8",
+      "publishYear": 2023,
+      "price": 32.99
+    },
+    {
+      "name": "Book 9",
+      "publishYear": 2017,
+      "price": 26.25
+    },
+    {
+      "name": "Book 10",
+      "publishYear": 2022,
+      "price": 29.99
+    },
+    {
+      "name": "Book 11",
+      "publishYear": 2016,
+      "price": 35.00
+    },
+    {
+      "name": "Book 12",
+      "publishYear": 2021,
+      "price": 27.95
+    },
+    {
+      "name": "Book 13",
+      "publishYear": 2020,
+      "price": 30.50
+    },
+    {
+      "name": "Book 14",
+      "publishYear": 2018,
+      "price": 29.99
+    },
+    {
+      "name": "Book 15",
+      "publishYear": 2019,
+      "price": 28.75
+    },
+    {
+      "name": "Book 16",
+      "publishYear": 2023,
+      "price": 31.50
+    },
+    {
+      "name": "Book 17",
+      "publishYear": 2017,
+      "price": 34.99
+    },
+    {
+      "name": "Book 18",
+      "publishYear": 2022,
+      "price": 29.25
+    },
+    {
+      "name": "Book 19",
+      "publishYear": 2016,
+      "price": 30.99
+    },
+    {
+      "name": "Book 20",
+      "publishYear": 2021,
+      "price": 32.95
+    },
+    {
+      "name": "Book 21",
+      "publishYear": 2020,
+      "price": 35.50
+    },
+    {
+      "name": "Book 22",
+      "publishYear": 2019,
+      "price": 33.99
+    },
+    {
+      "name": "Book 23",
+      "publishYear": 2018,
+      "price": 36.25
+    },
+    {
+      "name": "Book 24",
+      "publishYear": 2022,
+      "price": 27.99
+    },
+    {
+      "name": "Book 25",
+      "publishYear": 2017,
+      "price": 25.50
+    }
+  ]
+}
